@@ -1,0 +1,6 @@
+framework module RxShortcuts {
+  umbrella header "RxShortcuts-umbrella.h"
+
+  export *
+  module * { export * }
+}

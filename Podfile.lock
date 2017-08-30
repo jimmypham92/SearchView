@@ -1,0 +1,23 @@
+PODS:
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxShortcuts/Core (0.3.0):
+    - RxSwift (~> 3.0)
+  - RxShortcuts/RxCocoa (0.3.0):
+    - RxCocoa (~> 3.0)
+    - RxShortcuts/Core
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - RxCocoa (~> 3.0)
+  - RxShortcuts/RxCocoa
+  - RxSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxShortcuts: 2ca252fdc60c3ec9c7c1958ca1e5856c4066b1b9
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: 034d0dfade266c59a050145d496add0ca7dbaf9a
+
+COCOAPODS: 1.3.0
